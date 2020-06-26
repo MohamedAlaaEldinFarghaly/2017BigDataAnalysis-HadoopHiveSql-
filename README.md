@@ -1,6 +1,6 @@
 # BigDataAnalysis-HadoopHiveSql-
 
-## rief problem description
+## Brief problem description
 The NYC Department of Finance collects data on every parking ticket issued in NYC (~10M
 per year!). This data is made publicly available to aid in ticket resolution and to guide
 policymakers.
